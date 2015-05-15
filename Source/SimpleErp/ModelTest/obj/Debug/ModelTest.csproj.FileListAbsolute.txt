@@ -1,0 +1,12 @@
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\ModelTest.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\ModelTest.pdb
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\Model.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\Model.pdb
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\obj\Debug\ModelTest.csprojResolveAssemblyReference.cache
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\obj\Debug\ModelTest.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\obj\Debug\ModelTest.pdb
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\ModelTest.dll.config
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\EntityFramework.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\EntityFramework.xml
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\ModelTest\bin\Debug\EntityFramework.SqlServer.xml

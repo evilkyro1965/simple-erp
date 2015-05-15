@@ -1,0 +1,10 @@
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\Model.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\Model.pdb
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\obj\Debug\Model.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\obj\Debug\Model.pdb
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\Model.dll.config
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\EntityFramework.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\EntityFramework.xml
+D:\source_code\2_Project\simple-erp\Source\SimpleErp\Model\bin\Debug\EntityFramework.SqlServer.xml
