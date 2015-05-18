@@ -5,15 +5,19 @@ using simpleerp.model;
 namespace simpleerp.model.test
 {
     [TestClass]
-    public class UnitTest1:BaseTest
+    public class InventoryCategoryTest:BaseTest
     {
-        
+        private DaoContext dao = new DaoContext();
+
+        [TestInitialize()]
+        public void Initialize() {
+            setupDB();
+        }
 
         [TestMethod]
-        public void TestMethod1()
+        public void TestAdd()
         {
-            setupDB();
-            DaoContext dao = new DaoContext();
+            dao = new DaoContext();
 
             InventoryCategory inventoryCategory = new InventoryCategory();
             inventoryCategory.Name = "test";
@@ -21,5 +25,6 @@ namespace simpleerp.model.test
             dao.InventoryCategories.Add(inventoryCategory);
             dao.SaveChanges();
         }
+
     }
 }

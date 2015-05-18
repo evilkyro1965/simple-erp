@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="VendorContact.cs" />
     <Compile Include="DaoContext.cs" />
     <Compile Include="IdentifiableEntity.cs" />
     <Compile Include="InventoryCategory.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="InventoryUOM.cs" />
     <Compile Include="LookupEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vendor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
